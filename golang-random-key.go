@@ -1,9 +1,10 @@
 package golang-random-key
+
 import(
        "math/rand"
        "time"
 )
-/**/
+
 func CreateRandomKey(size int) string{
      s:=""
      for i:=1;i<=size;i++{
