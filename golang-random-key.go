@@ -1,4 +1,4 @@
-package golang-random-key
+package golang_random_key
 
 import(
        "math/rand"
