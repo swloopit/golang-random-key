@@ -1,8 +1,9 @@
 # golang-random-key
 golang project generate random key defined by length
 
+go get github.com/swloopit/golang-random-key
 
-how use randomkey
+how to use
 in this example generate a random key of lenght 30 
 ```golang
 package main
