@@ -1,3 +1,4 @@
+
 package golang_random_key
 
 import(
