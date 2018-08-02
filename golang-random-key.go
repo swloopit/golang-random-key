@@ -1,5 +1,5 @@
 
-package golang_random_key
+package randomkey
 
 import(
        "math/rand"
